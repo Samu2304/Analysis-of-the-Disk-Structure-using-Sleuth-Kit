@@ -71,6 +71,8 @@ icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
 Disk Structure Analysis Results
+![WhatsApp Image 2025-08-16 at 00 59 35_88439054](https://github.com/user-attachments/assets/2e7afc15-8711-4f15-84cc-df67c2200949)
+
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
